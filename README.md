@@ -9,7 +9,7 @@
 9. Tryck på fliken file och gå till usr/app/
 
 Git bash commando to build an image and container
-- docker build -t node-app
+- docker build -t node-app .
 - docker run -p 3000:3000 --name container_app node-app 
 
 Bash commando
