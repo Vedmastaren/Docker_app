@@ -13,10 +13,10 @@ Git bash commando to build an image and container
 - docker run -p 3000:3000 --name container_app node-app 
 
 Bash commando
-git init
-git remote add origin https://github.com/Vedmastaren/Docker_app.git
-git add .
-git commit -m "pushing to github"
-git push origin main
-git push origin master
+- git init
+- git remote add origin https://github.com/Vedmastaren/Docker_app.git
+- git add .
+- git commit -m "pushing to github"
+- git push origin main
+- git push origin master
 
